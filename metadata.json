@@ -1,0 +1,6 @@
+{
+  "name": "AI Token Intelligence",
+  "description": "Research prototype for measuring, analyzing, predicting, and optimizing AI token consumption and expenditure across agent workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
